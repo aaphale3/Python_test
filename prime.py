@@ -1,4 +1,4 @@
-all_nums = list(range(2, 101)) # create
+all_nums = list(range(2, 101)) 
 prime_list = list(range(2, 101))
 for num in all_nums:
     if num in (2, 3, 5, 7):
